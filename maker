@@ -1,0 +1,3 @@
+publish::maker-templates
+make::crud {name} --api --with-validation --with-factories --with-forms-models --with-datatable --with-tom-select --with-dropzone --export-pdf --export-excel
+make::project {name} --api --with-auth --with-voter --with-validation --with-factories --with-forms-models --multi-lang --with-datatable --with-tom-select --with-dropzone
